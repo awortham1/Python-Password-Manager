@@ -1,2 +1,2 @@
 # Python Password Manager Project
-Python Password Manager
+Python Password Manager Project
